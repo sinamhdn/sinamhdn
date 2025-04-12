@@ -17,6 +17,10 @@ Passionate about building robust applications and solving complex problems. Spec
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-A72145?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) -->
 
 ## 📈 GitHub Stats
