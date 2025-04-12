@@ -15,7 +15,7 @@ Passionate about building robust applications and solving complex problems. Spec
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) -->
 
 ## 📈 GitHub Stats
